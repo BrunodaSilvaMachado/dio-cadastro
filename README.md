@@ -1,11 +1,11 @@
 # DIO-cadastro
 
-Simula a páginal inicial da plataforma DIO. 
+Simula a página inicial da plataforma DIO. 
 
-Foi implementado uma tela de login e de cadastro funcional, com o auxilio da api _json-server_. 
+Foi implementado uma tela de login e de cadastro funcional, com o auxilio da API _json-server_. 
 
 
-### Paginas disponiveis:
+### Paginas disponíveis:
 * Página inicial;
 * Página de login;
 * Página de cadastro;
