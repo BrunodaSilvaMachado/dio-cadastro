@@ -8,5 +8,5 @@ Foi implementado uma tela de login e de cadastro funcional, com o auxilio da api
 ### Paginas disponiveis:
 * Página inicial;
 * Página de login;
-* Página de cadasto;
+* Página de cadastro;
 * Página de feeds;
